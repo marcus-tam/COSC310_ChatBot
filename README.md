@@ -1,5 +1,5 @@
 # COSC310_ChatBot
-___
+
 **To-Do List Overall:**
 
 1. [ ] Choose programming language
@@ -24,13 +24,13 @@ ___
     1. [ ] Make 3-4 minute demo of project, highight things that go very well and also very bad
     2. [ ] Give overview of the role of each member
     3. [ ] Show PM graphs from project repository (Branching structure of the code & Commits per team member)
-
+___
 **To-Do List Jingshi:**
-
+___
 **To-Do List John:**
-
+___
 **To-Do List Marcus:**
-
+___
 **To-Do List Rodrigo:**
-
+___
 **To-Do List Sherry:**
