@@ -26,6 +26,9 @@
     3. [ ] Show PM graphs from project repository (Branching structure of the code & Commits per team member)
 ___
 **To-Do List Jingshi:**
+1. [ ] Transcribe books into text
+2. [ ] Assign each pice of text to a category
+3. [ ] Produce into .xml file
 ___
 **To-Do List John:**
 ___
@@ -34,3 +37,6 @@ ___
 **To-Do List Rodrigo:**
 ___
 **To-Do List Sherry:**
+1. [ ] Transcribe books into text
+2. [ ] Assign each pice of text to a category
+3. [ ] Produce into .xml file
