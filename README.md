@@ -2,9 +2,9 @@
 
 **To-Do List Overall:**
 
-1. [X] Choose programming language
-2. [ ] Choose SDLC method for project (will help us work better)
-3. [X] Choose "role" of ChatBot
+1. [X] Choose programming language: Python
+2. [X] Choose SDLC method for project (will help us work better): Waterfall + Incremental
+3. [X] Choose "role" of ChatBot: Doctor Seuss
 4. [ ] Create project plan
     1. [ ] Brief description of project (include URL)
     2. [ ] Chosen SDLC rationale
