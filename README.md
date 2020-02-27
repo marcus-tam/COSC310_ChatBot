@@ -31,10 +31,13 @@ ___
 3. [ ] Produce into .xml file
 ___
 **To-Do List John:**
+1. [ ] Come up with response tree
 ___
 **To-Do List Marcus:**
+1. [ ] Come up with response tree
 ___
 **To-Do List Rodrigo:**
+1. [ ] Come up with response tree
 ___
 **To-Do List Sherry:**
 1. [ ] Transcribe books into text
