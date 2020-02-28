@@ -38,6 +38,7 @@ ___
 ___
 **To-Do List Rodrigo:**
 1. [ ] Come up with response tree
+2. [ ] Temp mood input .xml file
 ___
 **To-Do List Sherry:**
 1. [ ] Transcribe books into text
