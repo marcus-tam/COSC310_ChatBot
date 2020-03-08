@@ -1,3 +1,5 @@
+Question
+hey hello hi how are you doing hi  
 CategoryGreeting
 Dict{"hi", "hello", "hey", "hiya"}
 Too wet to go out And too cold to play ball. 
@@ -5,6 +7,8 @@ Hello 1
 Hello 2 
 Hello 3
 -----------------------------------------
+Question
+bad could be better terrible not
 CategoryComforting
 I will not let you fall. 
 I will hold you up high 
@@ -12,6 +16,8 @@ As I stand on a ball.
 With a book on one hand! 
 And a cup on my hat!
 --------------------------------------------
+Question
+what is the weather today
 CategoryWeather
 The sun is not sunny. But we can have Lots of good fun that is funny!
 The sun did not shine.
