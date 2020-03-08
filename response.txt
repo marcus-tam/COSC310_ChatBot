@@ -1,5 +1,5 @@
 CategoryGreeting
-Dict{¡°hi¡±, ¡°hello¡±, ¡°hey¡±, hiya¡±, ¡­}
+Dict{"hi", "hello", "hey", "hiya"}
 Too wet to go out And too cold to play ball. 
 Hello 1 
 Hello 2 
