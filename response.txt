@@ -1,0 +1,132 @@
+CategoryGreeting
+Dict{¡°hi¡±, ¡°hello¡±, ¡°hey¡±, hiya¡±, ¡­}
+Too wet to go out And too cold to play ball. 
+Hello 1 
+Hello 2 
+Hello 3
+-----------------------------------------
+CategoryComforting
+I will not let you fall. 
+I will hold you up high 
+As I stand on a ball. 
+With a book on one hand! 
+And a cup on my hat!
+--------------------------------------------
+CategoryWeather
+The sun is not sunny. But we can have Lots of good fun that is funny!
+The sun did not shine.
+-------------------------------------------------
+CategoryTime
+our mother is on her way home!
+--------------------------------------------------
+CategoryEmotion
+Have no fear!
+Look at me! 
+Look at me now!
+With a cup and a cake 
+On the top of my hat! 
+I can hold up two books! 
+I can hold up the fish! 
+And a little toy ship! 
+And some milk on a dish!
+--------------------------------------------------------
+CategoryApologize
+I'm sorry to say so but, sadly, it's true
+---------------------------------------------------------
+CategoryWaiting
+...for people just waiting. \n Waiting for a train to go \n or a bus to come, or a plane to go \n or the mail to come, or the rain to go \n or the phone to ring, or the snow to snow \n or the waiting around for a Yes or No \n or waiting for their hair to grow. \n Everyone is just waiting.
+--------------------------------------------------------------
+CategoryJustForFun
+I know some good games we could play
+we can have lots of good fun, if you wish, 
+With a game that I call 
+Up-up-up with a fish!
+----------------------------------------------------------------
+CategoryEncourage
+Have no fear of this mess
+Now! Now! Have no fear. 
+Have no fear!
+And will you succeed? \n Yes! You will, indeed!
+A person's a person, no matter how small.
+-------------------------------------------------------------
+CategoryBlaming
+This is not a good game
+No, I do not like it
+This is no fun at all!
+You did not like our game ... 
+Oh dear.
+--------------------------------------------------------------
+CategoryLocation
+Not in a box. Not with a fox. Not in a house. Not with a mouse. 
+Not in the dark! Not in a tree!
+Not in a car! 
+At the far end of town where the Grickle-grass grows and the wind smells slow-and-sour when it blows and no birds ever sing excepting old crows ... 
+----------------------------------------------------------------------
+CategoryAppreciation
+I do so like
+green eggs and ham!
+Thank you!
+Thank you, Sam-I-am
+------------------------------------------------------------------------
+CategoryConfusion
+The old Once-ler still lives here. Ask him, he knows. 
+-------------------------------------------------------------------------------
+CategoryShopping
+ I unloaded my cart. In no time at all, I had built a small shop.
+--------------------------------------------------------------------------------------------
+CategoryBeingBusy
+I'm busy, I told him. Shut up, if you please. 
+------------------------------------------------------------------------------------
+CategoryMeanReplies
+ All you do is yap-yap and say, Bad! Bad! Bad! Bad! 
+------------------------------------------------------------------------------------------
+CategoryOut of money
+ I biggered my money, which everyone needs. 
+----------------------------------------------------------------------------
+CategoryDonotWantToStudy
+Whatever that means. It must mean, 'Act swiftly awesome pachyderm!
+Will you kindly get rid of this thing?
+------------------------------------------------------------------------------------
+CategoryMeaningful
+When at last we are sure
+You¡¯ve been properly pilled,
+Then a few paper forms
+Must be properly filled
+So that you and your heirs
+May be properly billed.
+This£¬is your town's darkest hour!
+The time for all Whos who have blood that is red
+To come to the aid of their country!"
+"We've GOT to make noises in greater amounts!
+So, open your mouth, lad! For every voice counts!
+--------------------------------------------------------------------------------------
+CategoryPerseverance
+I've got to protect them. I'm bigger than them.
+You'll get mixed up, of course,
+as you already know.
+You'll get mixed up
+with many strange birds as you go.
+So be sure when you step.
+Step with care and great tact
+and remember that Life's
+a Great Balancing Act.
+Just never forget to be dexterous and deft.
+And never mix up your right foot with your left.
+------------------------------------------------------------------------------------------
+CategoryForHelp
+I¡¯ll help you,But who are you?Where?
+From the sun in the summer. From rain when it¡¯s fall-ish,
+I¡¯m going to protect them. No matter how small-ish!
+------------------------------------------------------------------------------------------
+CategoryAfraid
+You¡¯re safe now. Don¡¯t worry. I won¡¯t let you down.
+------------------------------------------------------------------------------------------
+CategoryWhisper
+There¡¯s no one around.
+------------------------------------------------------------------------------------------
+CategoryOnTravel
+On and on you will hike,
+And I know you'll hike far
+and face up to your problems
+whatever they are.
+------------------------------------------------------------------------------------------
