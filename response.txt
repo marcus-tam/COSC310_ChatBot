@@ -8,7 +8,7 @@ Hello 2
 Hello 3
 -----------------------------------------
 Question
-bad could be better terrible not
+bad could be better terrible not sad 
 CategoryComforting
 I will not let you fall. 
 I will hold you up high 
@@ -22,9 +22,13 @@ CategoryWeather
 The sun is not sunny. But we can have Lots of good fun that is funny!
 The sun did not shine.
 -------------------------------------------------
+Question
+when is the time what today 
 CategoryTime
 our mother is on her way home!
 --------------------------------------------------
+Question
+happy sad feel do 
 CategoryEmotion
 Have no fear!
 Look at me! 
@@ -36,18 +40,26 @@ I can hold up the fish!
 And a little toy ship! 
 And some milk on a dish!
 --------------------------------------------------------
+Question
+don't like not apologize sorry
 CategoryApologize
 I'm sorry to say so but, sadly, it's true
 ---------------------------------------------------------
+Question
+wait waiting think about  
 CategoryWaiting
 ...for people just waiting. \n Waiting for a train to go \n or a bus to come, or a plane to go \n or the mail to come, or the rain to go \n or the phone to ring, or the snow to snow \n or the waiting around for a Yes or No \n or waiting for their hair to grow. \n Everyone is just waiting.
 --------------------------------------------------------------
+Question
+fun for just happy makes something
 CategoryJustForFun
 I know some good games we could play
 we can have lots of good fun, if you wish, 
 With a game that I call 
 Up-up-up with a fish!
 ----------------------------------------------------------------
+Question
+fear fail feel I 
 CategoryEncourage
 Have no fear of this mess
 Now! Now! Have no fear. 
@@ -55,6 +67,8 @@ Have no fear!
 And will you succeed? \n Yes! You will, indeed!
 A person's a person, no matter how small.
 -------------------------------------------------------------
+Question
+
 CategoryBlaming
 This is not a good game
 No, I do not like it
