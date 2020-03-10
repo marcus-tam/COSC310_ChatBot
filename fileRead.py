@@ -16,7 +16,7 @@ def check(question):
                 for questionWord in questionArray:
                     # this .__contain__ will change to "==" when the response.txt is done
                     # weight system: each word has a weight(0-9) to calculate the similarity of the input sentence\
-                    if questionWord.__contains__(word):
+                    if questionWord[:(len(questionWord) - 2)] == word or questionWord[:(len(questionWord) - 1)] == word:
                         # handle the last word for each questionArray, which is "something/n"
                         try:
                             if questionWord[len(questionWord) - 1] == "\n":
