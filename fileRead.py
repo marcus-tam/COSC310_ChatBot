@@ -41,10 +41,14 @@ def check(question):
                 # finalResponse = f.readline()
             num = 0
     # get random response if optional response is not empty else print default finalResponse
-    if not len(optionalResponse)==0:
-        index = random.randint(0, len(optionalResponse) - 1)
-        # print("finalResponse:" + finalResponse)
-        finalResponse = optionalResponse[index]
+    if not len(optionalResponse) == 0:
+        # if only one response output the response
+        if len(optionalResponse) == 1:
+            finalResponse = optionalResponse[0]
+        else:
+            index = random.randint(0, len(optionalResponse) - 1)
+            # print("finalResponse:" + finalResponse)
+            finalResponse = optionalResponse[index]
     print(finalResponse)
     f.close()
 
