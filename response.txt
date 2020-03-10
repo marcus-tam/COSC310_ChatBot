@@ -1,5 +1,6 @@
 Note1: the format should be like this below has question with capital q and ---(long enough) at the end
 Note2: each word below the question should has a number(maxium9) at the end
+Note3: common word such as what is you I am usually only has 1 weight,but it can have exception 
 leave space
 leave space
 leave space
@@ -20,11 +21,8 @@ It is a ten-minute animated short film based on the book by Dr. Seuss, by Leon S
 Question
 The1 5009 Hats9 of1 Bartholomew9 Cubbins9
 CategoryBook
-The 500 Hats of Bartholomew Cubbins is a children's book, written and illustrated by Theodor Geisel under the pen name Dr. Seuss and \n published by Vanguard Press in 1938. Unlike the majority of Geisel's books, it is written in prose rather than rhyming and metered \n verse. Geisel, who collected hats, got the idea for the story on a commuter train from New York to New England while he was sitting \n behind a businessman wearing a hat; the passenger was so stiff and formal that Geisel idly wondered what would happen if he took the \n man's hat and threw it out the window. Geisel concluded that the man was so "stuffy" that he would just grow a new one.
+The 500 Hats of Bartholomew Cubbins is a children's book, written and illustrated by me and \n published by Vanguard Press in 1938. Unlike the majority of Geisel's books, it is written in prose rather than rhyming and metered \n verse. Geisel, who collected hats, got the idea for the story on a commuter train from New York to New England while he was sitting \n behind a businessman wearing a hat; the passenger was so stiff and formal that Geisel idly wondered what would happen if he took the \n man's hat and threw it out the window. Geisel concluded that the man was so "stuffy" that he would just grow a new one.(Source: Wiki)
 --------------------------------------------------
-
-formal line above is compeleted below is not, I also need someone to edit hello response, thank you
-
 Question
 who2 are2 you2
 CategoryWho
@@ -32,6 +30,46 @@ I am Dr.Seuss
 I am Theodor Geisel
 I am Theodor Geisel, you can call me Dr Seuss too.
 ----------------------------------------------------------
+Question
+And1 to1 Think2 That1 I1 Saw5 It1 on1 Mulberry5 Street5
+CategoryBook
+And to Think That I Saw It on Mulberry Street is my first children's book published. First published by Vanguard Press in 1937, the story follows a boy named Marco, who describes a parade of imaginary people and vehicles traveling along a road, Mulberry Street, in an elaborate fantasy story he dreams up to tell his father at the end of his walk. However, when he arrives home he decides instead to tell his father what he actually saw—a simple horse and wagon.(Source: Wiki)
+------------------------------------------------------------
+Question
+What2 books9 list3 show2 your2 wrote4 have1
+CategoryList
+I owned many books and films such as "Horton Hatches the Egg" and "The 500 Hats of Bartholomew Cubbins", you may type the name to know more.
+I wrote many books such as "	And to Think That I Saw It on Mulberry Street","How the Grinch Stole Christmas!" and "The Cat in the Hat", \n you may type the name to know more.
+Horton Hatches the Egg	traditionally\nThe 500 Hats of Bartholomew Cubbins\nAnd to Think That I Saw It on Mulberry Street\nGerald McBoing-Boing\nHow the Grinch Stole Christmas	\n The Cat in the Hat\nHorton Hears a Who!	\n The Lorax \n you may type the name to know more.
+-----------------------------------------------------------------
+Question
+Gerald9 McBoing-Boing9
+CategotyFilm
+Gerald McBoing-Boing is an animated short film about a little boy who speaks through sound effects instead of spoken words. (Source: Wiki)
+-----------------------------------------------------------------
+Question
+How1 the1 Grinch6 Stole6 Christmas7 what1 is1 Christmas!6
+CategoryFilm
+It follows the Grinch, a grumpy, solitary creature who attempts to put an end to Christmas by stealing Christmas-themed items from the \n homes of the nearby town Whoville on Christmas Eve. Miraculously, the Grinch realizes that Christmas may not all be about money and \n presents. It also has a film about it(Source: Wiki)
+-------------------------------------------------------------------
+Question
+The1 Cat6 in1 the1 Hat6
+CategoryBook
+The Cat in the Hat story centers on a tall anthropomorphic cat who wears a red and white-striped hat and a red bow tie. The Cat shows up \n at the house of Sally and her brother one rainy day when their mother is away. Despite the repeated objections of the children's \n fish, the Cat shows the children a few of his tricks in an attempt to entertain them. In the process, he and his companions, Thing One \n and Thing Two wreck the house. The children and the fish become more and more alarmed until the Cat produces a machine that he uses \n to clean everything up and disappears just before the children's mother comes home. It also has a film about it(Source: Wiki)
+-----------------------------------------------------------------
+Question
+Horton5 Hears5 a1 Who!5 
+CategoryBook
+Horton Hears a Who! is a children's book written and illustrated by Theodor Seuss Geisel under the pen name Dr. Seuss and was published\n in 1954 by Random House.(Source: Wiki)
+-----------------------------------------------------------------
+Question
+The1 Lorax9
+CategoryBook
+The Lorax is a children's book written by me and first published in 1971.[1] It chronicles the plight of the environment and the \n Lorax is the titular character, who "speaks for the trees" and confronts the Once-ler, who causes environmental destruction. (Source: Wiki)
+-----------------------------------------------------------------
+
+formal line above is compeleted below is not, I also need someone to edit hello response, thank you
+
 Question
 bad could be better terrible not sad 
 CategoryComforting
