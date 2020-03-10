@@ -49,7 +49,9 @@ def check(question):
             index = random.randint(0, len(optionalResponse) - 1)
             # print("finalResponse:" + finalResponse)
             finalResponse = optionalResponse[index]
-    print(finalResponse)
+    arr2 = finalResponse.split("\\n")
+    for word in arr2:
+        print(word)
     f.close()
 
 
