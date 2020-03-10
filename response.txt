@@ -1,5 +1,11 @@
+Note1: the format should be like this below has question with capital q and ---(long enough) at the end
+Note2: each word below the question should has a number(maxium9) at the end
+leave space
+leave space
+leave space
+Example:
 Question
-hey hello hi how are you doing hi  
+hey2 hello3 hi1 how4 are2 you3 doing4 hi9  
 CategoryGreeting
 Dict{"hi", "hello", "hey", "hiya"}
 Too wet to go out And too cold to play ball. 
