@@ -2,7 +2,6 @@ Question
 hey hello hi how are you doing hi  
 CategoryGreeting
 Dict{"hi", "hello", "hey", "hiya"}
-Too wet to go out And too cold to play ball. 
 Hello 1 
 Hello 2 
 Hello 3
@@ -10,35 +9,25 @@ Hello 3
 Question
 bad could be better terrible not sad 
 CategoryComforting
-I will not let you fall. 
-I will hold you up high 
-As I stand on a ball. 
-With a book on one hand! 
-And a cup on my hat!
+I will not let you fall.\n I will hold you up high\n As I stand on a ball.\n With a book on one hand!\n And a cup on my hat!\n
 --------------------------------------------
 Question
 what is the weather today
 CategoryWeather
 The sun is not sunny. But we can have Lots of good fun that is funny!
 The sun did not shine.
+Too wet to go out And too cold to play ball. 
 -------------------------------------------------
 Question
 when is the time what today date
 CategoryTime
-our mother is on her way home!
+
 --------------------------------------------------
 Question
 happy sad feel do 
 CategoryEmotion
 Have no fear!
-Look at me! 
-Look at me now!
-With a cup and a cake 
-On the top of my hat! 
-I can hold up two books! 
-I can hold up the fish! 
-And a little toy ship! 
-And some milk on a dish!
+Look at me!\n Look at me now!\n With a cup and a cake\n On the top of my hat!\n I can hold up two books!\n I can hold up the fish!\n And a little toy ship!\n And some milk on a dish!\n
 --------------------------------------------------------
 Question
 don't like not apologize sorry
@@ -53,10 +42,7 @@ CategoryWaiting
 Question
 fun for just happy makes something
 CategoryJustForFun
-I know some good games we could play
-we can have lots of good fun, if you wish, 
-With a game that I call 
-Up-up-up with a fish!
+I know some good games we could play\n we can have lots of good fun, if you wish,\n With a game that I call \n Up-up-up with a fish!
 ----------------------------------------------------------------
 Question
 fear fail feel I 
@@ -66,27 +52,16 @@ Now! Now! Have no fear.
 Have no fear!
 And will you succeed? \n Yes! You will, indeed!
 A person's a person, no matter how small.
--------------------------------------------------------------
-Question
-
-CategoryBlaming
-This is not a good game
-No, I do not like it
-This is no fun at all!
-You did not like our game ... 
-Oh dear.
+This£¬is your town's darkest hour!\n The time for all Whos who have blood that is red\n To come to the aid of their country!"\n "We've GOT to make noises in greater amounts!\n So, open your mouth, lad! For every voice counts!
+On and on you will hike,\n And I know you'll hike far\n and face up to your problems\n whatever they are.
 --------------------------------------------------------------
 CategoryLocation
 Not in a box. Not with a fox. Not in a house. Not with a mouse. 
-Not in the dark! Not in a tree!
-Not in a car! 
+Not in the dark!\n Not in a tree!\n Not in a car! 
 At the far end of town where the Grickle-grass grows and the wind smells slow-and-sour when it blows and no birds ever sing excepting old crows ... 
 ----------------------------------------------------------------------
 CategoryAppreciation
-I do so like
-green eggs and ham!
-Thank you!
-Thank you, Sam-I-am
+I do so like\n green eggs and ham!\n Thank you!\n thank you, Sam-I-am
 ------------------------------------------------------------------------
 CategoryConfusion
 The old Once-ler still lives here. Ask him, he knows. 
@@ -98,7 +73,9 @@ CategoryBeingBusy
 I'm busy, I told him. Shut up, if you please. 
 ------------------------------------------------------------------------------------
 CategoryMeanReplies
- All you do is yap-yap and say, Bad! Bad! Bad! Bad! 
+All you do is yap-yap and say, Bad! Bad! Bad! Bad!
+This is not a good game\n No, I do not like it\n This is no fun at all!
+Shut up, if you please.
 ------------------------------------------------------------------------------------------
 CategoryOut of money
  I biggered my money, which everyone needs. 
@@ -114,27 +91,12 @@ Then a few paper forms
 Must be properly filled
 So that you and your heirs
 May be properly billed.
-This£¬is your town's darkest hour!
-The time for all Whos who have blood that is red
-To come to the aid of their country!"
-"We've GOT to make noises in greater amounts!
-So, open your mouth, lad! For every voice counts!
 --------------------------------------------------------------------------------------
 CategoryPerseverance
-I've got to protect them. I'm bigger than them.
-You'll get mixed up, of course,
-as you already know.
-You'll get mixed up
-with many strange birds as you go.
-So be sure when you step.
-Step with care and great tact
-and remember that Life's
-a Great Balancing Act.
-Just never forget to be dexterous and deft.
-And never mix up your right foot with your left.
+I've got to protect them. I'm bigger than them.\n You'll get mixed up, of course, as you already know.\n You'll get mixed up\n with many strange birds as you go.\n So be sure when you step.\n Step with care and great tact\n and remember that Life's\n a Great Balancing Act.\n Just never forget to be dexterous and deft.\n And never mix up your right foot with your left.
 ------------------------------------------------------------------------------------------
 CategoryForHelp
-I¡¯ll help you,But who are you?Where?
+I¡¯ll help you,But who are you?
 From the sun in the summer. From rain when it¡¯s fall-ish,
 I¡¯m going to protect them. No matter how small-ish!
 ------------------------------------------------------------------------------------------
@@ -143,10 +105,4 @@ You¡¯re safe now. Don¡¯t worry. I won¡¯t let you down.
 ------------------------------------------------------------------------------------------
 CategoryWhisper
 There¡¯s no one around.
-------------------------------------------------------------------------------------------
-CategoryOnTravel
-On and on you will hike,
-And I know you'll hike far
-and face up to your problems
-whatever they are.
 ------------------------------------------------------------------------------------------
