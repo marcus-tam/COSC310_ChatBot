@@ -1,7 +1,9 @@
-from nltk.chat.util import Chat , reflections
-pairs = [
-    ['my name is (.*)', ['hello %1']]
+import fileRead
 
-]
-chat = Chat(pairs, reflections)
-chat.converse()
+while True:
+    question = input("ask a question")
+    if question.__contains__("quit()"):
+        print("Goodbye!")
+        break
+    else:
+        fileRead.check(question)

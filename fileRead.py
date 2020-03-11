@@ -55,10 +55,3 @@ def check(question):
     f.close()
 
 
-while "1" == "1":
-    question = input("ask a question")
-    if question.__contains__("end"):
-        print("Goodbye!")
-        break
-    else:
-        check(question)
