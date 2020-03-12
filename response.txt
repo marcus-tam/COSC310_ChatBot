@@ -8,7 +8,6 @@ Example:
 Question
 hey2 hello3 hi1 how4 are2 you3 doing4 hi9  
 CategoryGreeting
-Too wet to go out And too cold to play ball. 
 Hello there. How do you do?  
 Hello, hello. Are you there?
 Who comes?
@@ -82,40 +81,40 @@ The sun did not shine.
 All that deep, \Deep, deep snow, \nAll that snow had to go.
 -------------------------------------------------
 Question
-when7 is1 the1 time9 what3 today3 date9 day9
+when7 is1 the1 time9 what3 today4 date4 day4
 CategoryTime
 Today is gone. Today was fun.
 How many fingers do I see?\nOne, two, three, four,\nfive, six, seven, eight, nine, ten.
 It was quarter of dawn. All the Whos still a-bed,\nAll the Whos still a-snooze, when he packed up his sled,\nPacked it up with their presents, their ribbons, their wrappings,\nTheir snoof and their fuzzles, their tringlers and trappings!
 --------------------------------------------------
 Question
-happy3 sad3 feel8 do7 am5 
+i1 am1 feeling1 bad1 sad1 unhappy5 afraid4
 CategoryEmotion
 Have no fear!
 Look at me! \nLook at me now!\nWith a cup and a cake \nOn the top of my hat! \nI can hold up two books! \nI can hold up the fish! \nAnd a little toy ship! \nAnd some milk on a dish!
 Bring your cheer,\nCheer to all Whos, far and near.
 --------------------------------------------------------
 Question
-don't8 like8 not9 apologize9 sorry7 feel8 good8 about3
+I1 don't4 like1 you2 your1 reply3 helpless3 it1 is1 useless4 hate4
 CategoryApologize
 I'm sorry to say so but, sadly, it's true
 I'm so sorry.
 ---------------------------------------------------------
 Question
-wait9 waiting9 think5 about5  
+wait9 waiting9 think1 about2 i1 am1 for2 so3 long4
 CategoryWaiting
 ...for people just waiting. \n Waiting for a train to go \n or a bus to come, or a plane to go \n or the mail to come, or the rain to go \n or the phone to ring, or the snow to snow \n or the waiting around for a Yes or No \n or waiting for their hair to grow. \n Everyone is just waiting.
 Somehow you'll escape\nall that waiting and staying
 Waiting for the fish to bite\nor waiting for the wind to fly a kite\nor waiting around for Friday night\nor waiting, perhaps, for their Uncle Jake\nor a pot to boil, or a Better Break\nor a string of pearls, or a pair of pants\nor a wig with curls, or Another Chance.\nEveryone is just waiting.
 --------------------------------------------------------------
 Question
-fun8 for1 just1 happy6 makes7 something1 feel5 am5 bored9 
+I1 am1 bored7 need1 some2 fun6
 CategoryJustForFun
 I know some good games we could play
 we can have lots of good fun, if you wish, \nWith a game that I call \nUp-up-up with a fish!
 ----------------------------------------------------------------
 Question
-fear9 afraid9 fail8 feel5 I1 
+fear7 afraid7 fail7 feel1 I1 am1 bad4
 CategoryEncourage
 Have no fear of this mess
 Now! Now! Have no fear. 
@@ -124,24 +123,23 @@ And will you succeed? \n Yes! You will, indeed!
 A person's a person, no matter how small.
 -------------------------------------------------------------
 Question
-something1 crazy6 skip7 escape7 boring8 stupid9
+you1 are1 nothing5 doing3 useless6 don't4 like3 
 CategoryBlaming
 This is not a good game
 No, I do not like it
 This is no fun at all!
-You did not like our game ... 
-Oh dear.
+You did not like our game ... \nOh dear.
 Then he got an idea! An awful idea!
 --------------------------------------------------------------
 Question
-where9 are1 is1 something5 
+where9 are1 is1 something5 am1 I1 place4 don't1 know1
 CategoryLocation
 Not in a box. Not with a fox. Not in a house. Not with a mouse. 
 Not in the dark! Not in a tree!\nNot in a car! 
 At the far end of town where the Grickle-grass grows and the wind smells slow-and-sour when it blows and no birds ever sing excepting old crows ... 
 ----------------------------------------------------------------------
 Question
-I5 like8 love9 did9 for7 you1
+I1 like9 did2 for1 your1 books1 that1
 CategoryAppreciation
 I do so like\ngreen eggs and ham!\nThank you!\nThank you, Sam-I-am
 But this sound wasn't sad!\nWhy, this sound sounded glad!
@@ -154,28 +152,28 @@ I do not know, go ask your dad.
 Don't ask us why, go ask your mother.
 --------------------------------------------------------------------------------------------
 Question
-will3 you1 can5 for7 me1 have3 time2
+will3 you1 can5 for7 me1 have4 time4 do1 
 CategoryBeingBusy
 I'm busy, I told him. Shut up, if you please. 
 Ask me tomorrow\nbut not today.
 This was no time for play. \nThis was no time for fun. \nThis was no time for games. \nThere was work to be done.
 ------------------------------------------------------------------------------------
 Question
-fuck5 you1 dumb6 ass6 
+fuck5 you1 dumb6 ass6 silly5 useless5 are1
 CategoryMeanReplies
 All you do is yap-yap and say, Bad! Bad! Bad! Bad! 
 You don’t need an excuse!
 Stop it!  Stop it!\nThat's enough.
 ------------------------------------------------------------------------------------------
 Question
-I1 am2 feel2 impressed7 depressed7 moved7 confused6 lost7 by3 about3 still7
+I1 am2 feel2 impressed7 depressed7 moved7 confused6 lost7 by3 about1 still7
 CategoryMeaningful
 When at last we are sure\nYou’ve been properly pilled,\nThen a few paper forms\nMust be properly filled\nSo that you and your heirs\nMay be properly billed.
 This is your town's darkest hour!\nThe time for all Whos who have blood that is red\nTo come to the aid of their country!"\n"We've GOT to make noises in greater amounts!\nSo, open your mouth, lad! For every voice counts!
 When your thinks have run dry, in the\nblink of an eye there’s another think there!\nIf you open your mind, oh, the thinks you\nwill find lining up to get loose! Oh, the thinks \nyou can think!
 ------------------------------------------------------------------------------------------
 Question
-I1 can't5 finish6 make6 it6 want5 to5 give6 up6 
+I1 can1 not1 finish6 make6 it6 want1 to1 give6 up6 
 CategoryPerseverance
 I've got to protect them. I'm bigger than them.\nYou'll get mixed up, of course,\nas you already know.\nYou'll get mixed up\nwith many strange birds as you go.\nSo be sure when you step.\nStep with care and great tact\nand remember that Life's\na Great Balancing Act.\nJust never forget to be dexterous and deft.\nAnd never mix up your right foot with your left.
 Keep your mind on your work. \nYou just stay there, you two. 
@@ -205,20 +203,20 @@ Un-slumping yourself\nis not easily done.
 Question
 I1 am1 planning4 have1 a1 trip9 travel9 plan3 
 CategoryOnTravel
-On and on you will hike,
-And I know you'll hike far
-and face up to your problems
-whatever they are.
+On and on you will hike,\nAnd I know you'll hike far\nand face up to your problems\nwhatever they are.
+You'll find the bright places\nwhere Boom Bands are playing.
+With banner flip-flapping,\nonce more you'll ride high!\nReady for anything under the sky.
+
 ------------------------------------------------------------------------------------------
 Question
-what1 are1 all2 other7 your1 book9 did1 you1 write8 list3 
+what1 are1 all2 other4 your1 books9 did1 you1 write8 list3 
 CategoryBooklist
 The Lorax. \nThe Cat in the Hat.\nGreen Eggs and Ham...
 How the Grinch Stole Christmas! \nHorton Hears A Who! \nOh, the Places You'll Go! ...
 The Sneetches and Other Stories. \nOne Fish Two Fish Red Fish Blue Fish...
 ------------------------------------------------------------------------------------------
 Question
-that3 is3 it2 everything7 for1 today2 thank2 you1
+that3 is3 it2 everything7 for1 today2 thank4 you1
 CategoryConclution
 You're off to Great Places! \nToday is your day!\nYour mountain is waiting,\nSo... get on your way!
 Thank you for a lot of fun, sir.
