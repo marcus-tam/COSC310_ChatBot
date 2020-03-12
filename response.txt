@@ -89,7 +89,7 @@ How many fingers do I see?\nOne, two, three, four,\nfive, six, seven, eight, nin
 It was quarter of dawn. All the Whos still a-bed,\nAll the Whos still a-snooze, when he packed up his sled,\nPacked it up with their presents, their ribbons, their wrappings,\nTheir snoof and their fuzzles, their tringlers and trappings!
 --------------------------------------------------
 Question
-happy9 sad9 feel6 do5 am5 
+happy3 sad3 feel8 do7 am5 
 CategoryEmotion
 Have no fear!
 Look at me! \nLook at me now!\nWith a cup and a cake \nOn the top of my hat! \nI can hold up two books! \nI can hold up the fish! \nAnd a little toy ship! \nAnd some milk on a dish!
@@ -154,7 +154,7 @@ I do not know, go ask your dad.
 Don't ask us why, go ask your mother.
 --------------------------------------------------------------------------------------------
 Question
-will3 you1 can5 for7 me1
+will3 you1 can5 for7 me1 have3 time2
 CategoryBeingBusy
 I'm busy, I told him. Shut up, if you please. 
 Ask me tomorrow\nbut not today.
@@ -211,7 +211,7 @@ and face up to your problems
 whatever they are.
 ------------------------------------------------------------------------------------------
 Question
-what1 are1 all2 your1 book9 did1 you1 write8 
+what1 are1 all2 other7 your1 book9 did1 you1 write8 list3 
 CategoryBooklist
 The Lorax. \nThe Cat in the Hat.\nGreen Eggs and Ham...
 How the Grinch Stole Christmas! \nHorton Hears A Who! \nOh, the Places You'll Go! ...
