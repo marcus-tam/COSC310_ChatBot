@@ -67,58 +67,55 @@ The1 Lorax9
 CategoryBook
 The Lorax is a children's book written by me and first published in 1971.[1] It chronicles the plight of the environment and the \n Lorax is the titular character, who "speaks for the trees" and confronts the Once-ler, who causes environmental destruction. (Source: Wiki)
 -----------------------------------------------------------------
-
-formal line above is compeleted below is not, I also need someone to edit hello response, thank you
-
 Question
-bad could be better terrible not sad not feel good
+bad9 could5 be5 better5 terrible8 not9 feel9 good9 sad9
 CategoryComforting
 I will not let you fall. \nI will hold you up high \nAs I stand on a ball. \nWith a book on one hand! \nAnd a cup on my hat!
 Wherever you fly, you'll be best of the best.\nWherever you go, you will top all the rest.
 You have brains in your head.\nYou have feet in your shoes.\nYou can steer yourself \nany direction you choose.\nYou're on your own. And you know what you know.\nAnd YOU are the guy who'll decide where to go.
 --------------------------------------------
 Question
-what how is the weather today
+what6 how6 is1 the1 weather9 today2
 CategoryWeather
 The sun is not sunny. But we can have Lots of good fun that is funny!
 The sun did not shine.
 All that deep, \Deep, deep snow, \nAll that snow had to go.
 -------------------------------------------------
 Question
-when is the time what today date day
+when8 is1 the1 time9 what3 today3 date9 day9
 CategoryTime
 Today is gone. Today was fun.
 How many fingers do I see?\nOne, two, three, four,\nfive, six, seven, eight, nine, ten.
 It was quarter of dawn. All the Whos still a-bed,\nAll the Whos still a-snooze, when he packed up his sled,\nPacked it up with their presents, their ribbons, their wrappings,\nTheir snoof and their fuzzles, their tringlers and trappings!
 --------------------------------------------------
 Question
-happy sad feel do am 
+happy9 sad9 feel6 do5 am5 
 CategoryEmotion
 Have no fear!
 Look at me! \nLook at me now!\nWith a cup and a cake \nOn the top of my hat! \nI can hold up two books! \nI can hold up the fish! \nAnd a little toy ship! \nAnd some milk on a dish!
 Bring your cheer,\nCheer to all Whos, far and near.
 --------------------------------------------------------
 Question
-don't like not apologize sorry not feel good about
+don't8 like8 not9 apologize9 sorry7 feel8 good8 about3
 CategoryApologize
 I'm sorry to say so but, sadly, it's true
 I'm so sorry.
 ---------------------------------------------------------
 Question
-wait waiting think about  
+wait9 waiting9 think5 about5  
 CategoryWaiting
 ...for people just waiting. \n Waiting for a train to go \n or a bus to come, or a plane to go \n or the mail to come, or the rain to go \n or the phone to ring, or the snow to snow \n or the waiting around for a Yes or No \n or waiting for their hair to grow. \n Everyone is just waiting.
 Somehow you'll escape\nall that waiting and staying
 Waiting for the fish to bite\nor waiting for the wind to fly a kite\nor waiting around for Friday night\nor waiting, perhaps, for their Uncle Jake\nor a pot to boil, or a Better Break\nor a string of pearls, or a pair of pants\nor a wig with curls, or Another Chance.\nEveryone is just waiting.
 --------------------------------------------------------------
 Question
-fun for just happy makes something am bored 
+fun8 for1 just1 happy6 makes7 something1 feel5 am5 bored9 
 CategoryJustForFun
 I know some good games we could play
 we can have lots of good fun, if you wish, \nWith a game that I call \nUp-up-up with a fish!
 ----------------------------------------------------------------
 Question
-fear fail feel I 
+fear9 afraid9 fail8 feel5 I1 
 CategoryEncourage
 Have no fear of this mess
 Now! Now! Have no fear. 
@@ -127,7 +124,7 @@ And will you succeed? \n Yes! You will, indeed!
 A person's a person, no matter how small.
 -------------------------------------------------------------
 Question
-something crazy skip escape boring stupid
+something1 crazy6 skip7 escape7 boring8 stupid9
 CategoryBlaming
 This is not a good game
 No, I do not like it
@@ -137,27 +134,27 @@ Oh dear.
 Then he got an idea! An awful idea!
 --------------------------------------------------------------
 Question
-where are is something 
+where9 are1 is1 something5 
 CategoryLocation
 Not in a box. Not with a fox. Not in a house. Not with a mouse. 
 Not in the dark! Not in a tree!\nNot in a car! 
 At the far end of town where the Grickle-grass grows and the wind smells slow-and-sour when it blows and no birds ever sing excepting old crows ... 
 ----------------------------------------------------------------------
 Question
-I like love did for you
+I5 like8 love9 did9 for7 you1
 CategoryAppreciation
 I do so like\ngreen eggs and ham!\nThank you!\nThank you, Sam-I-am
 But this sound wasn't sad!\nWhy, this sound sounded glad!
 ------------------------------------------------------------------------
 Question
-where when is are my something 
+where5 when5 what5 how5 who5 is5 are5 my9 your9 his9 her9 
 CategoryConfusion
 The old Once-ler still lives here. Ask him, he knows.
 I do not know, go ask your dad.
 Don't ask us why, go ask your mother.
 --------------------------------------------------------------------------------------------
 Question
-will you can for me
+will3 you1 can5 for7 me1
 CategoryBeingBusy
 I'm busy, I told him. Shut up, if you please. 
 Ask me tomorrow\nbut not today.
