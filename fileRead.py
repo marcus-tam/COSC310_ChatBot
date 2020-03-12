@@ -1,5 +1,5 @@
 from numpy import random
-
+from time import sleep
 
 def check(question):
     arr = question.split(" ")
@@ -54,4 +54,21 @@ def check(question):
         print(word)
     f.close()
 
+
+def helpQuestions():
+    print("So you want to know what you don't know? Here's a few things I can chat about!")
+    sleep(0.6)
+    print("..........")
+    sleep(0.6)
+    print("..........")
+    sleep(0.6)
+    print("..........")
+    sleep(0.6)
+
+    print("Want to know about a few of my books? Ask me about the Cat in the Hat!")
+    print("Tell me about how you're feeling! I hope I'll respond appropriately")
+    print("Want to know about a beloved character? Ask me about the Lorax")
+    print("Try a swear word I fuckin dare you")
+    print(":)")
+    print("..........")
 
