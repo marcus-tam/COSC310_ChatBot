@@ -82,7 +82,7 @@ The sun did not shine.
 All that deep, \Deep, deep snow, \nAll that snow had to go.
 -------------------------------------------------
 Question
-when8 is1 the1 time9 what3 today3 date9 day9
+when7 is1 the1 time9 what3 today3 date9 day9
 CategoryTime
 Today is gone. Today was fun.
 How many fingers do I see?\nOne, two, three, four,\nfive, six, seven, eight, nine, ten.
@@ -147,7 +147,7 @@ I do so like\ngreen eggs and ham!\nThank you!\nThank you, Sam-I-am
 But this sound wasn't sad!\nWhy, this sound sounded glad!
 ------------------------------------------------------------------------
 Question
-where5 when5 what5 how5 who5 is5 are5 my9 your9 his9 her9 
+where7 when7 what7 how7 who7 is1 are1 my2 your2 his2 her2 age5 old6 name8 bag7 father7 car5 birthday3
 CategoryConfusion
 The old Once-ler still lives here. Ask him, he knows.
 I do not know, go ask your dad.
@@ -168,7 +168,7 @@ You don’t need an excuse!
 Stop it!  Stop it!\nThat's enough.
 ------------------------------------------------------------------------------------------
 Question
-I1 am2 feel2 impressed7 depressed7 moved7 confused6 lost7 by3 about3 
+I1 am2 feel2 impressed7 depressed7 moved7 confused6 lost7 by3 about3 still7
 CategoryMeaningful
 When at last we are sure\nYou’ve been properly pilled,\nThen a few paper forms\nMust be properly filled\nSo that you and your heirs\nMay be properly billed.
 This is your town's darkest hour!\nThe time for all Whos who have blood that is red\nTo come to the aid of their country!"\n"We've GOT to make noises in greater amounts!\nSo, open your mouth, lad! For every voice counts!
