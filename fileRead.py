@@ -30,7 +30,7 @@ def check(question):
             if num > maxNum:
                 optionalResponse = []
                 maxNum = num
-                print(f.readline())
+                #print(f.readline())
                 # get all possible response
                 while True:
                     temp = f.readline()
