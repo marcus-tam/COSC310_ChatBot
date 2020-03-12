@@ -4,15 +4,17 @@ import animations as anim
 anim.introAnimation()
 
 print("------------------------------------------------")
-name = input("Welcome to talk with Seuss! Please enter the name you would like to be called by. ")
-print("Hello " + name + ", My name is Theodor Seuss Geisel, but you can just call me Dr. Suess ;)")
-print("If you are curious as to what to ask me, type 'help' to get a list of topics to chat about!")
+username = input("Welcome to Talk With Seuss! Please enter the name you would like to be called by. ")
+print("Hello " + username + ", My name is Theodor Seuss Geisel, but you can just call me Dr. Suess ;)")
+print("If you are curious as to what to ask me, type 'help' to get a list of topics to chat about! (Type 'quit() to "
+      "end program)")
 print("")
 while True:
     question = input("User input -> ")
 
     if question.__contains__("quit()"):
-        print("Goodbye!")
+        print("Don't cry because it's over \nSmile because it happened :) ")
+        print("Goodbye! May we meet again!")
         break
     if question.lower().__eq__("help"):
         fr.helpQuestions()

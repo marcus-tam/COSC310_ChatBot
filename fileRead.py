@@ -16,7 +16,7 @@ def check(question):
                 for questionWord in questionArray:
                     # this .__contain__ will change to "==" when the response.txt is done
                     # weight system: each word has a weight(0-9) to calculate the similarity of the input sentence\
-                    if questionWord[:(len(questionWord) - 2)] == word or questionWord[:(len(questionWord) - 1)] == word:
+                    if questionWord[:(len(questionWord) - 2)].lower() == word.lower() or questionWord[:(len(questionWord) - 1)].lower() == word.lower():
                         # handle the last word for each questionArray, which is "something/n"
                         try:
                             if questionWord[len(questionWord) - 1] == "\n":
@@ -46,7 +46,7 @@ def check(question):
         if len(optionalResponse) == 1:
             finalResponse = optionalResponse[0]
         else:
-            index = random.randint(0, len(optionalResponse) - 1)
+            index = random.randint(0, len(optionalResponse))
             # print("finalResponse:" + finalResponse)
             finalResponse = optionalResponse[index]
     arr2 = finalResponse.split("\\n")
