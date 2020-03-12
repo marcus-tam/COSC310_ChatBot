@@ -1,49 +1,54 @@
 Question
-hey hello hi how are you doing hi  
+hi2 hello2 howdy2 hey2 what¯s1 up1 sup2 good1 morning1 evening1 afternoon1 g¯day2 yo2 greetings2 
 CategoryGreeting
 Dict{"hi", "hello", "hey", "hiya"}
 Hello 1 
 Hello 2 
 Hello 3
------------------------------------------
+------------------------------------------------------------------------------------------
 Question
-bad could be better terrible not sad 
+bad3 could2 be1 better3 terrible3 sad3
 CategoryComforting
 I will not let you fall.\n I will hold you up high\n As I stand on a ball.\n With a book on one hand!\n And a cup on my hat!\n
---------------------------------------------
+------------------------------------------------------------------------------------------
 Question
-what is the weather today
+what1 is1 the1 weather9 today1
 CategoryWeather
 The sun is not sunny. But we can have Lots of good fun that is funny!
 The sun did not shine.
 Too wet to go out And too cold to play ball. 
--------------------------------------------------
+------------------------------------------------------------------------------------------
 Question
-when is the time what today date
+when2 is1 the1 time7 what1 is1 today2 date7
 CategoryTime
 
---------------------------------------------------
+------------------------------------------------------------------------------------------
 Question
-happy sad feel do 
-CategoryEmotion
+feel2 sad5 bad4 depressed6 blue3
+CategoryEmotionSad
 Have no fear!
 Look at me!\n Look at me now!\n With a cup and a cake\n On the top of my hat!\n I can hold up two books!\n I can hold up the fish!\n And a little toy ship!\n And some milk on a dish!\n
---------------------------------------------------------
+------------------------------------------------------------------------------------------
+Question
+happy 
+CategoryEmotionSad
+
+------------------------------------------------------------------------------------------
 Question
 don't like not apologize sorry
 CategoryApologize
 I'm sorry to say so but, sadly, it's true
----------------------------------------------------------
+------------------------------------------------------------------------------------------
 Question
 wait waiting think about  
 CategoryWaiting
 ...for people just waiting. \n Waiting for a train to go \n or a bus to come, or a plane to go \n or the mail to come, or the rain to go \n or the phone to ring, or the snow to snow \n or the waiting around for a Yes or No \n or waiting for their hair to grow. \n Everyone is just waiting.
---------------------------------------------------------------
+------------------------------------------------------------------------------------------
 Question
 fun for just happy makes something
 CategoryJustForFun
 I know some good games we could play\n we can have lots of good fun, if you wish,\n With a game that I call \n Up-up-up with a fish!
-----------------------------------------------------------------
+------------------------------------------------------------------------------------------
 Question
 fear fail feel I 
 CategoryEncourage
@@ -52,26 +57,26 @@ Now! Now! Have no fear.
 Have no fear!
 And will you succeed? \n Yes! You will, indeed!
 A person's a person, no matter how small.
-This£¬is your town's darkest hour!\n The time for all Whos who have blood that is red\n To come to the aid of their country!"\n "We've GOT to make noises in greater amounts!\n So, open your mouth, lad! For every voice counts!
+This is your town's darkest hour!\n The time for all Whos who have blood that is red\n To come to the aid of their country!"\n "We've GOT to make noises in greater amounts!\n So, open your mouth, lad! For every voice counts!
 On and on you will hike,\n And I know you'll hike far\n and face up to your problems\n whatever they are.
---------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryLocation
 Not in a box. Not with a fox. Not in a house. Not with a mouse. 
 Not in the dark!\n Not in a tree!\n Not in a car! 
 At the far end of town where the Grickle-grass grows and the wind smells slow-and-sour when it blows and no birds ever sing excepting old crows ... 
-----------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryAppreciation
 I do so like\n green eggs and ham!\n Thank you!\n thank you, Sam-I-am
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryConfusion
 The old Once-ler still lives here. Ask him, he knows. 
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryShopping
  I unloaded my cart. In no time at all, I had built a small shop.
---------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryBeingBusy
 I'm busy, I told him. Shut up, if you please. 
-------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryMeanReplies
 All you do is yap-yap and say, Bad! Bad! Bad! Bad!
 This is not a good game\n No, I do not like it\n This is no fun at all!
@@ -79,11 +84,11 @@ Shut up, if you please.
 ------------------------------------------------------------------------------------------
 CategoryOut of money
  I biggered my money, which everyone needs. 
-----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryDonotWantToStudy
 Whatever that means. It must mean, 'Act swiftly awesome pachyderm!
 Will you kindly get rid of this thing?
-------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryMeaningful
 When at last we are sure
 You¡¯ve been properly pilled,
@@ -91,13 +96,13 @@ Then a few paper forms
 Must be properly filled
 So that you and your heirs
 May be properly billed.
---------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 CategoryPerseverance
 I've got to protect them. I'm bigger than them.\n You'll get mixed up, of course, as you already know.\n You'll get mixed up\n with many strange birds as you go.\n So be sure when you step.\n Step with care and great tact\n and remember that Life's\n a Great Balancing Act.\n Just never forget to be dexterous and deft.\n And never mix up your right foot with your left.
 ------------------------------------------------------------------------------------------
 CategoryForHelp
 I¡¯ll help you,But who are you?
-From the sun in the summer. From rain when it¡¯s fall-ish,
+From the sun in the summer. From rain when it¯s fall-ish,
 I¡¯m going to protect them. No matter how small-ish!
 ------------------------------------------------------------------------------------------
 CategoryAfraid
