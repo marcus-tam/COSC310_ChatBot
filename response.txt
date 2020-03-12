@@ -1,5 +1,5 @@
 Note1: the format should be like this below has question with capital q and ---(long enough) at the end
-Note2: each word below the question should has a number(maxium9) at the end
+Note2: each word below the question should has a number(maximum9) at the end
 Note3: common word such as what is you I am usually only has 1 weight,but it can have exception 
 leave space
 leave space
@@ -44,7 +44,7 @@ Horton Hatches the Egg	traditionally\nThe 500 Hats of Bartholomew Cubbins\nAnd t
 -----------------------------------------------------------------
 Question
 Gerald9 McBoing-Boing9
-CategotyFilm
+CategoryFilm
 Gerald McBoing-Boing is an animated short film about a little boy who speaks through sound effects instead of spoken words. (Source: Wiki)
 -----------------------------------------------------------------
 Question
