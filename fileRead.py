@@ -1,20 +1,5 @@
 from numpy import random
 from time import sleep
-import nltk
-from nltk.corpus import wordnet
-
-
-def findSynonyms(text):
-    synonyms = []
-    antonyms = []
-
-    for syn in wordnet.synsets("good"):
-        for l in syn.lemmas():
-            synonyms.append(l.name())
-            if l.antonyms():
-                antonyms.append(l.antonyms()[0].name())
-    return synonyms, antonyms
-
 
 def check(question):
     arr = question.split(" ")
@@ -31,8 +16,7 @@ def check(question):
                 for questionWord in questionArray:
                     # this .__contain__ will change to "==" when the response.txt is done
                     # weight system: each word has a weight(0-9) to calculate the similarity of the input sentence\
-                    keyword=questionWord[:(len(questionWord) - 1)].lower()
-                    if  keyword== word.lower():
+                    if questionWord[:(len(questionWord) - 2)].lower() == word.lower() or questionWord[:(len(questionWord) - 1)].lower() == word.lower():
                         # handle the last word for each questionArray, which is "something/n"
                         try:
                             if questionWord[len(questionWord) - 1] == "\n":
@@ -42,38 +26,11 @@ def check(question):
                         # to handle if a word do not have a number in the end of the word
                         except:
                             num += 1
-                    else:
-                        result = findSynonyms(keyword)
-                        synonyms = result[0]
-                        antonyms = result[1]
-                        for synonymsWord in synonyms:
-                            if synonymsWord == word.lower():
-                                # handle the last word for each questionArray, which is "something/n"
-                                try:
-                                    if questionWord[len(questionWord) - 1] == "\n":
-                                        num += int(questionWord[len(questionWord) - 2])
-                                    else:
-                                        num += int(questionWord[len(questionWord) - 1])
-                                # to handle if a word do not have a number in the end of the word
-                                except:
-                                    num += 1
-                        for antonyms in synonyms:
-                            if antonyms == word.lower():
-                                # handle the last word for each questionArray, which is "something/n"
-                                try:
-                                    if questionWord[len(questionWord) - 1] == "\n":
-                                        num -= int(questionWord[len(questionWord) - 2])
-                                    else:
-                                        num -= int(questionWord[len(questionWord) - 1])
-                                # to handle if a word do not have a number in the end of the word
-                                except:
-                                    num += 1
-
             # obtain the category with the highest weight or also can be called similarity
             if num > maxNum:
                 optionalResponse = []
                 maxNum = num
-                print(f.readline())
+                #print(f.readline())
                 # get all possible response
                 while True:
                     temp = f.readline()
@@ -114,3 +71,4 @@ def helpQuestions():
     print("Try a swear word I fuckin dare you")
     print(":)")
     print("..........")
+
