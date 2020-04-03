@@ -1,5 +1,6 @@
 import fileRead as fr
 import animations as anim
+import spell as sp
 
 anim.introAnimation()
 
@@ -11,12 +12,13 @@ print("If you are curious as to what to ask me, type 'help' to get a list of top
 print("")
 while True:
     question = input("User input -> ")
-
+    correctedQuestion = sp.checkCorrection(question)
+    print(correctedQuestion)
     if question.__contains__("quit()"):
         print("Don't cry because it's over \nSmile because it happened :) ")
         print("Goodbye! May we meet again!")
         break
-    if question.lower().__eq__("help"):
+    if correctedQuestion.lower().__eq__("help"):
         fr.helpQuestions()
     else:
-        fr.check(question)
+        fr.check(correctedQuestion)
