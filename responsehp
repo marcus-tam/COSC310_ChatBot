@@ -1,0 +1,218 @@
+Note1: the format should be like this below has question with capital q and ---(long enough) at the end
+Note2: each word below the question should has a number(maximum9) at the end
+Note3: common word such as what is you I am usually only has 1 weight,but it can have exception
+leave space
+leave space
+leave space
+Example:
+Question
+hey2 hello3 hi1 how4 are2 you3 doing4 hi9 
+CategoryGreeting
+Hello there. How do you do? 
+Hello, hello. Are you there?
+Who comes?
+-----------------------------------------
+Question
+what2 is1 basically1 talking2 about1 Harry5 Potter5 film5
+CategotyFilm
+Harry Potter is a British-American film series based on the eponymous novels by\n author J. K. Rowling. The series is distributed by Warner Bros. and consists of eight fantasy films,\n beginning with Harry Potter and the Philosopher's Stone (2001) and culminating with \nHarry Potter and the Deathly Hallows – Part 2 (2011).[2][3] A spin-off prequel series will consist of\n five films started with Fantastic Beasts and Where to Find Them (2016), marking the beginning of\n the Wizarding World shared media franchise.(Source: Wiki)
+---------------------------------------------
+Question
+the1 book3 about2 Harry5 Potter5 write5 about2 
+CategoryBook
+Harry Potter is a series of fantasy novels written by British author J. K. Rowling.\n The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger \nand Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. \nThe main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends \nto become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate \nall wizards and Muggles (non-magical people).(Source: Wiki)
+--------------------------------------------------
+Question
+who3 are3 you3
+CategoryWho
+I am J. K. Rowling
+----------------------------------------------------------
+Question
+What2 books9 list3 show2 your2 wrote4 have1
+CategoryList
+Harry Potter series
+Cormoran Strike series (as Robert Galbraith)
+-----------------------------------------------------------------
+Question
+Gerald9 McBoing-Boing9
+CategoryFilm
+Gerald McBoing-Boing is an animated short film about a little boy who speaks through sound effects instead of spoken words. (Source: Wiki)
+-----------------------------------------------------------------
+Question
+How1 the1 Grinch6 Stole6 Christmas7 what1 is1 Christmas!6
+CategoryFilm
+It follows the Grinch, a grumpy, solitary creature who attempts to put an end to Christmas by stealing Christmas-themed items from the \n homes of the nearby town Whoville on Christmas Eve. Miraculously, the Grinch realizes that Christmas may not all be about money and \n presents. It also has a film about it(Source: Wiki)
+-------------------------------------------------------------------
+Question
+The1 Cat6 in1 the1 Hat6
+CategoryBook
+The Cat in the Hat story centers on a tall anthropomorphic cat who wears a red and white-striped hat and a red bow tie. The Cat shows up \n at the house of Sally and her brother one rainy day when their mother is away. Despite the repeated objections of the children's \n fish, the Cat shows the children a few of his tricks in an attempt to entertain them. In the process, he and his companions, Thing One \n and Thing Two wreck the house. The children and the fish become more and more alarmed until the Cat produces a machine that he uses \n to clean everything up and disappears just before the children's mother comes home. It also has a film about it(Source: Wiki)
+-----------------------------------------------------------------
+Question
+Horton5 Hears5 a1 Who!5
+CategoryBook
+Horton Hears a Who! is a children's book written and illustrated by Theodor Seuss Geisel under the pen name Dr. Seuss and was published\n in 1954 by Random House.(Source: Wiki)
+-----------------------------------------------------------------
+Question
+The1 Lorax9
+CategoryBook
+The Lorax is a children's book written by me and first published in 1971.[1] It chronicles the plight of the environment and the \n Lorax is the titular character, who "speaks for the trees" and confronts the Once-ler, who causes environmental destruction. (Source: Wiki)
+-----------------------------------------------------------------
+Question
+I1 finally3 get2 it2 done5 finished5 
+CategoryAdmitting
+“...rather than enable my self-sacrifice, as you did. You are the worthy possessor of the Hallows.”
+“well done! You did it, you found out how all by yourself!” 
+“Yeh did as much as yer father would' ve done, an’ I can’ give yeh no higher praise than that.”
+--------------------------------------------
+Question
+what6 how6 is1 the1 weather9 today2
+CategoryWeather
+-“The weather was getting colder and wetter, the nights darker, but no amount of mud, wind, or rain could tarnish Harry's wonderful vision of finally winning the huge, silver Quidditch Cup.”
+-The weather worsened steadily as the first Quidditch match drew nearer.
+-Harry's euphoria at finally winning the Quidditch Cup lasted at least a week. Even the weather seemed to be celebrating.
+-------------------------------------------------
+Question
+when7 is1 the1 time9 what3 today4 date4 day4
+CategoryTime
+“This is three hours ago, and we are walking down to Hagrid's…”
+...he had just under fifteen minutes to get back to the fireside and talk to Sirius...
+“She is your teacher and has every right to give you detention. You will go to her room at five o'clock tomorrow for the first one.”
+--------------------------------------------------
+Question
+i1 am1 feeling1 bad1 sad1 unhappy5 afraid4
+CategoryLove
+...Not a scar, no visible sign to have been loved so deeply, even though the person who loved us is gone, will give us some protection forever. It is in your very skin...
+-“After all this time?” -”Always.”
+The last enemy that shall be destroyed is death.
+--------------------------------------------------------
+Question
+I1 don't4 like1 you2 your1 reply3 helpless3 it1 is1 useless4 hate4
+CategoryApologize
+“Not the Stone, boy, you--he effort involved nearly killed you. For one terrible moment there, I was afraid it had. As for the Stone, it has been destroyed.”
+“I’m so, so sorry. I think it was me.”
+“Can you forgive me?” he said. “Can you forgive me for not trusting you?...“
+---------------------------------------------------------
+Question
+wait9 waiting9 think1 about2 i1 am1 for2 so3 long4
+CategorySarcastic
+“We'll get you another autograph. Lockhart'll sign anything if it stands still long enough.”
+“That'll change the world, that report will,” said Ron. “Front page of the Daily Prophet, I expect, cauldron leaks.”
+“...If we're not careful, we'll have another Head Boy in the family. I don't think I could stand the shame.”
+--------------------------------------------------------------
+Question
+I1 am1 bored7 need1 some2 fun6
+CategoryJustForFun
+-“Blown up a toilet? We've never blown up a toilet.” -”Great idea though, thanks, Mom.”
+“Why Are You Worrying About You-Know-Who?
+You SHOULD Be Worrying About
+U-NO-POO
+the Constipation Sensation That's Gripping the Nation!”
+“We've got a new Defence Against the Dark Arts teacher, Professor Umbridge. She's nearly as nice as your mum.”
+----------------------------------------------------------------
+Question
+fear7 afraid7 fail7 feel1 I1 am1 bad4
+CategoryEncourage
+“I think,” said Dumbledore, “that if you choose to return, there is a chance that he may be finished for good. I cannot promise it. But I know this, Harry, that you have less to fear from returning here than he does.”
+“Harry.” He spread his arms wide, and his hands were both whole and white and undamaged. “You wonderful boy. You brave, brave man. Let us walk.”
+“You are nearly there,” said James. “Very close. We are...so proud of you.”
+-------------------------------------------------------------
+Question
+you1 are1 nothing5 doing3 useless6 don't4 like3
+CategoryBlaming
+“If I see you do that again I'll jinx your fingers together,”
+“Don't you ever let me see you throwing knives again!”
+“You disgust me...” 
+--------------------------------------------------------------
+Question
+where9 are1 is1 something5 am1 I1 place4 don't1 know1
+CategoryLocation
+All you have to do is walk straight at the barrier between platforms nine and ten. 
+“Three up­... two across…” he muttered. “Right, stand back, Harry.”
+“Diagon Alley, London”
+----------------------------------------------------------------------
+Question
+I1 like9 did2 for1 your1 books1 that1
+CategoryAppreciation
+HERE LIES DOBBY, A FREE ELF.
+“Thank you so much Dobby for rescuing me from that cellar. It’s so unfair that you had to die when you were so good and brave. I’ll always remember what you did for us. I hope you’re happy now.”
+“... I’m sure he’d want you to have it as a token of gratitude for what you…”
+------------------------------------------------------------------------
+Question
+where7 when7 what7 how7 who7 is1 are1 my2 your2 his2 her2 age5 old6 name8 bag7 father7 car5 birthday3
+CategoryConfusion
+“Does it hurt?”
+“Weird!” he said, “What a shape! This is money ?”
+“Did you really?” said Mr. Weasley eagerly. “Did it go all right? …”
+--------------------------------------------------------------------------------------------
+Question
+will3 you1 can5 for7 me1 have4 time4 do1
+CategoryBeingBusy
+“What a night,”
+“We're trying to standardize cauldron thickness. Some of these foreign imports are just a shade too thin - leakages have been increasing at a rate of almost three percent a year “
+“I shudder to think what the state of my in-tray would be if I was away from work for five days.”
+------------------------------------------------------------------------------------
+Question
+fuck5 you1 dumb6 ass6 silly5 useless5 are1
+CategoryMeanReplies
+Avada Kedavra(Murders opponent – Unforgivable)
+Expelliarmus(The disarming spell)
+“The poor toilet's never had anything as horrible as your head down it, it might be sick.” 
+------------------------------------------------------------------------------------------
+Question
+I1 am2 feel2 impressed7 depressed7 moved7 confused6 lost7 by3 about1 still7
+CategoryMeaningful
+“... it really is like going to bed after a very, very long day. After all, to the well-organized mind, death is but the next great adventure…”
+“Call him Voldemort, Harry. Always use the proper name for things. Fear of a name increases fear of the thing itself.”
+“The truth.” Dumbledore sighed. “It is a beautiful and terrible thing, and should therefore be treated with great caution...”
+------------------------------------------------------------------------------------------
+Question
+I1 can1 not1 finish6 make6 it6 want1 to1 give6 up6
+CategoryPerseverance
+“He was a real wizard, then?” the old man said, his eyes on Voldemort. “Killed me, that one did...­You fight him, boy...”
+“Don't let go, now!” she cried, and her voice echoed like Cedric's as though from very far away. “Don't let him get you, Harry - don't let go!”
+...he was starting to feel dizzy, but he knew light and air were only ten feet above him...­he had to get there...­he had to...
+------------------------------------------------------------------------------------------
+Question
+can1 you1 sing7 song7 for2 me2
+CategorySinging
+Cantis(Forces a person to sing)
+“...So put me on! Don't be afraid!\nAnd don't get in a flap!\nYou're in safe hands (though I have none)\nFor I'm a Thinking Cap!”
+At last, only the Weasley twins were left singing along to a very slow funeral march.
+------------------------------------------------------------------------------------------
+Question
+I1 need1 your1 help9 asking2 for2 help9
+CategoryForHelp
+Accio, Wand.
+Alohomora(Opens locked objects)
+“You haff a water beetle in your hair, Herm-own-ninny,”
+------------------------------------------------------------------------------------------
+Question
+I1 am1 afraid9 worried9 about2
+CategoryAfraid
+Expecto Patronum(Was always going to win)
+Obliviate(a spell to wipe out memories)
+Ridikuius
+------------------------------------------------------------------------------------------
+Question
+I1 am1 planning4 have1 a1 trip9 travel9 plan3
+CategoryOnTravel
+“We are in King’s Cross you say? I think that if you decided not to go back, you would be able to...­ let’s say...­ board a train.”
+The weather could not have been more different on the journey back to King's Cross than it had been on their way to Hogwarts the previous September. 
+The Headquarters of the Order of the Phoenix may be found at number twelve, Grimmauld Place, London.
+------------------------------------------------------------------------------------------
+Question
+what1 are1 all2 other4 your1 books9 did1 you1 write8 list3
+CategoryBooklist
+A History of Magic by Bathilda Bagshot
+Magical Theory by Adalbert Waffling
+A Beginners’ Guide to Transfiguration by Emeric Switch
+------------------------------------------------------------------------------------------
+Question
+that3 is3 it2 everything7 for1 today2 thank4 you1
+CategoryConclusion
+“Do not pity the dead, Harry. Pity the living, and above all, those who live without love. By returning, you may ensure that fewer souls are maimed, fewer families are torn apart. If that seems to you a worthy goal, they we saw good-bye for the present.”
+“...Now, enough questions. I suggest you make a start on these sweets…”
+“Good-bye, ‘Arry,” said Fleur, turning to go. “It ‘az been a pleasure meeting you!” 
+------------------------------------------------------------------------------------------
+
