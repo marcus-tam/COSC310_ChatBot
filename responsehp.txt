@@ -28,59 +28,59 @@ CategoryWho
 I am J. K. Rowling
 ----------------------------------------------------------
 Question
-What2 books9 list3 show2 your2 wrote4 have1
+What2 books4 list3 show2 your2 wrote4 have1
 CategoryList
 Harry Potter series
 Cormoran Strike series (as Robert Galbraith)
 -----------------------------------------------------------------
 Question
-Sorcerer's Stone
+Sorcerer's4 Stone4 what1 is1 about2 film3
 CategoryFilm
 Harry Poter is an orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world. In his school life, he received many friends and learned magic. And he also find that the secret of Sorcerer's Stone is hiding in his school. 
 -----------------------------------------------------------------
 Question
-Chamber of Secret
+Chamber3 of2 Secret4 what1 is1 about2 film3
 CategoryFilm
-The second year in Hogwarts for Harry Potter is not that easy. Muggle-bornstudents were attacted by unknown monster. And Harry is the Heir of Slytherin. But Harry finally finds out the truth and saved his friends from the monster in the Chamber of Secret.
+The second year in Hogwarts for Harry Potter is not that easy. Muggle-bornstudents were attacted by unknown monster. And Harry is the\n Heir of Slytherin. But Harry finally finds out the truth and saved his friends from the monster in the Chamber of Secret.
 -------------------------------------------------------------------
 Question
-Prisoner of Azkaban 
+Prisoner4 of1 Azkaban4 what1 is1 about2 book3
 CategoryBook
-The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban, the wizard prison, believed to be one of Lord Voldemort's old allies. But after meeting with Black, Harry found out that the truth is actually not like what people thought.
+The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends\nRonald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban, the wizard prison,\n believed to be one of Lord Voldemort's old allies. But after meeting with Black, Harry found out that the truth is actually not like\n what people thought.
 -----------------------------------------------------------------
 Question
-Horton5 Hears5 a1 Who!5
+Goblet4 of1 Fire4 what1 is1 about2 book3
 CategoryBook
- It follows Harry Potter, a wizard in his fourth year at Hogwarts School of Witchcraft and Wizardry, and the mystery surrounding the entry of Harry's name into the Triwizard Tournament, in which he is forced to compete. Harry faced several hard situations and found out that there is conspiracy hide in this tournament.
+It follows Harry Potter, a wizard in his fourth year at Hogwarts School of Witchcraft and Wizardry, and the mystery surrounding the\n entry of Harry's name into the Triwizard Tournament, in which he is forced to compete. Harry faced several hard situations and found out\n that there is conspiracy hide in this tournament.
 -----------------------------------------------------------------
 Question
-the Order of the Phoenix
+the1 Order3 of3 the3 Phoenix3 book3
 CategoryBook
-It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic. 
+It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious\n return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic. 
 -----------------------------------------------------------------
 Question
-I1 finally3 get2 it2 done5 finished5 
+I1 finally3 get2 it2 done5 finished5
 CategoryAdmitting
 “...rather than enable my self-sacrifice, as you did. You are the worthy possessor of the Hallows.”
-“well done! You did it, you found out how all by yourself!” 
+“well done! You did it, you found out how all by yourself!”
 “Yeh did as much as yer father would' ve done, an’ I can’ give yeh no higher praise than that.”
 --------------------------------------------
 Question
-what6 how6 is1 the1 weather9 today2
+what2 how2 is1 the1 weather5 today2
 CategoryWeather
 -“The weather was getting colder and wetter, the nights darker, but no amount of mud, wind, or rain could tarnish Harry's wonderful vision of finally winning the huge, silver Quidditch Cup.”
 -The weather worsened steadily as the first Quidditch match drew nearer.
 -Harry's euphoria at finally winning the Quidditch Cup lasted at least a week. Even the weather seemed to be celebrating.
 -------------------------------------------------
 Question
-when7 is1 the1 time9 what3 today4 date4 day4
+when2 is1 the1 time9 what3 today4 date4 day4
 CategoryTime
 “This is three hours ago, and we are walking down to Hagrid's…”
 ...he had just under fifteen minutes to get back to the fireside and talk to Sirius...
 “She is your teacher and has every right to give you detention. You will go to her room at five o'clock tomorrow for the first one.”
 --------------------------------------------------
 Question
-i1 am1 feeling1 bad1 sad1 unhappy5 afraid4
+I2 feel2 want2 to1 love5 how2 can1
 CategoryLove
 ...Not a scar, no visible sign to have been loved so deeply, even though the person who loved us is gone, will give us some protection forever. It is in your very skin...
 -“After all this time?” -”Always.”
@@ -94,14 +94,14 @@ CategoryApologize
 “Can you forgive me?” he said. “Can you forgive me for not trusting you?...“
 ---------------------------------------------------------
 Question
-wait9 waiting9 think1 about2 i1 am1 for2 so3 long4
+you1 look1 dumb4 know2 nothing2 silly4
 CategorySarcastic
 “We'll get you another autograph. Lockhart'll sign anything if it stands still long enough.”
 “That'll change the world, that report will,” said Ron. “Front page of the Daily Prophet, I expect, cauldron leaks.”
 “...If we're not careful, we'll have another Head Boy in the family. I don't think I could stand the shame.”
 --------------------------------------------------------------
 Question
-I1 am1 bored7 need1 some2 fun6
+I1 am1 bored5 need1 some2 fun5
 CategoryJustForFun
 -“Blown up a toilet? We've never blown up a toilet.” -”Great idea though, thanks, Mom.”
 “Why Are You Worrying About You-Know-Who?
@@ -111,7 +111,7 @@ the Constipation Sensation That's Gripping the Nation!”
 “We've got a new Defence Against the Dark Arts teacher, Professor Umbridge. She's nearly as nice as your mum.”
 ----------------------------------------------------------------
 Question
-fear7 afraid7 fail7 feel1 I1 am1 bad4
+fear5 afraid7 fail5 feel1 I1 am1 bad4
 CategoryEncourage
 “I think,” said Dumbledore, “that if you choose to return, there is a chance that he may be finished for good. I cannot promise it. But I know this, Harry, that you have less to fear from returning here than he does.”
 “Harry.” He spread his arms wide, and his hands were both whole and white and undamaged. “You wonderful boy. You brave, brave man. Let us walk.”
@@ -122,17 +122,17 @@ you1 are1 nothing5 doing3 useless6 don't4 like3
 CategoryBlaming
 “If I see you do that again I'll jinx your fingers together,”
 “Don't you ever let me see you throwing knives again!”
-“You disgust me...” 
+“You disgust me...”
 --------------------------------------------------------------
 Question
-where9 are1 is1 something5 am1 I1 place4 don't1 know1
+where5 are1 is1 something5 am1 I1 place4 don't1 know1
 CategoryLocation
-All you have to do is walk straight at the barrier between platforms nine and ten. 
-“Three up­... two across…” he muttered. “Right, stand back, Harry.”
+All you have to do is walk straight at the barrier between platforms nine and ten.
+“Three up... two across…” he muttered. “Right, stand back, Harry.”
 “Diagon Alley, London”
 ----------------------------------------------------------------------
 Question
-I1 like9 did2 for1 your1 books1 that1
+I1 like5 did2 for1 your1 books1 that1
 CategoryAppreciation
 HERE LIES DOBBY, A FREE ELF.
 “Thank you so much Dobby for rescuing me from that cellar. It’s so unfair that you had to die when you were so good and brave. I’ll always remember what you did for us. I hope you’re happy now.”
@@ -146,21 +146,21 @@ CategoryConfusion
 “Did you really?” said Mr. Weasley eagerly. “Did it go all right? …”
 --------------------------------------------------------------------------------------------
 Question
-will3 you1 can5 for7 me1 have4 time4 do1
+will3 you1 can5 for5 me1 have4 time4 do1
 CategoryBeingBusy
 “What a night,”
 “We're trying to standardize cauldron thickness. Some of these foreign imports are just a shade too thin - leakages have been increasing at a rate of almost three percent a year “
 “I shudder to think what the state of my in-tray would be if I was away from work for five days.”
 ------------------------------------------------------------------------------------
 Question
-fuck5 you1 dumb6 ass6 silly5 useless5 are1
+fuck5 you1 dumb5 ass2 silly5 useless5 are1
 CategoryMeanReplies
 Avada Kedavra(Murders opponent – Unforgivable)
 Expelliarmus(The disarming spell)
-“The poor toilet's never had anything as horrible as your head down it, it might be sick.” 
+“The poor toilet's never had anything as horrible as your head down it... it might be sick.”
 ------------------------------------------------------------------------------------------
 Question
-I1 am2 feel2 impressed7 depressed7 moved7 confused6 lost7 by3 about1 still7
+I1 am2 feel2 impressed5 depressed5 confused5 lost3 by3 about1 still2
 CategoryMeaningful
 “... it really is like going to bed after a very, very long day. After all, to the well-organized mind, death is but the next great adventure…”
 “Call him Voldemort, Harry. Always use the proper name for things. Fear of a name increases fear of the thing itself.”
@@ -169,9 +169,9 @@ CategoryMeaningful
 Question
 I1 can1 not1 finish6 make6 it6 want1 to1 give6 up6
 CategoryPerseverance
-“He was a real wizard, then?” the old man said, his eyes on Voldemort. “Killed me, that one did...­You fight him, boy...”
+“He was a real wizard, then?” the old man said, his eyes on Voldemort. “Killed me, that one did...You fight him, boy...”
 “Don't let go, now!” she cried, and her voice echoed like Cedric's as though from very far away. “Don't let him get you, Harry - don't let go!”
-...he was starting to feel dizzy, but he knew light and air were only ten feet above him...­he had to get there...­he had to...
+...he was starting to feel dizzy, but he knew light and air were only ten feet above him...he had to get there...he had to...
 ------------------------------------------------------------------------------------------
 Question
 can1 you1 sing7 song7 for2 me2
@@ -188,31 +188,57 @@ Alohomora(Opens locked objects)
 “You haff a water beetle in your hair, Herm-own-ninny,”
 ------------------------------------------------------------------------------------------
 Question
-I1 am1 afraid9 worried9 about2
+I1 am1 afraid5 worried5 about2
 CategoryAfraid
 Expecto Patronum(Was always going to win)
 Obliviate(a spell to wipe out memories)
 Ridikuius
 ------------------------------------------------------------------------------------------
 Question
-I1 am1 planning4 have1 a1 trip9 travel9 plan3
+I1 am1 planning4 have1 a1 trip5 travel5 plan3
 CategoryOnTravel
-“We are in King’s Cross you say? I think that if you decided not to go back, you would be able to...­ let’s say...­ board a train.”
-The weather could not have been more different on the journey back to King's Cross than it had been on their way to Hogwarts the previous September. 
+“We are in King’s Cross you say? I think that if you decided not to go back, you would be able to... let’s say... board a train.”
+The weather could not have been more different on the journey back to King's Cross than it had\n been on their way to Hogwarts the previous September.
 The Headquarters of the Order of the Phoenix may be found at number twelve, Grimmauld Place, London.
 ------------------------------------------------------------------------------------------
 Question
-what1 are1 all2 other4 your1 books9 did1 you1 write8 list3
+what1 are1 all2 other4 your1 books5 did1 you1 write4 list3
 CategoryBooklist
 A History of Magic by Bathilda Bagshot
 Magical Theory by Adalbert Waffling
 A Beginners’ Guide to Transfiguration by Emeric Switch
 ------------------------------------------------------------------------------------------
 Question
-that3 is3 it2 everything7 for1 today2 thank4 you1
+that3 is3 it2 everything5 for1 today2 thank4 you2
 CategoryConclusion
-“Do not pity the dead, Harry. Pity the living, and above all, those who live without love. By returning, you may ensure that fewer souls are maimed, fewer families are torn apart. If that seems to you a worthy goal, they we saw good-bye for the present.”
+“Do not pity the dead, Harry. Pity the living, and above all, those who live without love. By returning, you may ensure that fewer souls\n are maimed, fewer families are torn apart. If that seems to you a worthy goal, they we saw good-bye for the present.”
 “...Now, enough questions. I suggest you make a start on these sweets…”
-“Good-bye, ‘Arry,” said Fleur, turning to go. “It ‘az been a pleasure meeting you!” 
+“Good-bye, ‘Arry,” said Fleur, turning to go. “It ‘az been a pleasure meeting you!”
 ------------------------------------------------------------------------------------------
-
+Question
+what1 spells6 do2 you1 know2 like1 teach2 me1 some2
+CategorySpell
+Riddikulus 
+Obliviate
+Sectumsempra
+Avada Kedavra
+Alohomora
+Lumos
+Expelliarmus
+Wingardium Leviosa
+------------------------------------------------------------------------------------------
+Question
+what1 is1 your2 school4 like1 am1 going4 I2
+CategorySchool
+“Dear old Hogwarts...”
+Beauxbatons
+Durmstrang
+------------------------------------------------------------------------------------------
+Question
+which1 house4 in1 Hogwarts4 should1 I1 go1 you1 prefer2
+CategoryHouse
+You might belong in Gryffindor,\nWhere dwell the brave at heart,\nTheir daring, nerve, and chivalry Set Gryffindors apart;
+You might belong in Hufflepuff,\nWhere they are just and loyal,\nThose patient Hufflepuffis are true And unafraid of toil;
+Or yet in wise old Ravenclaw,\nif you've a ready mind,\nWhere those of wit and learning,\nWill always find their kind;
+Or perhaps in Slytherin\nYou'll make your real friends,\nThose cunning folk use any means\nTo achieve their ends.
+------------------------------------------------------------------------------------------
