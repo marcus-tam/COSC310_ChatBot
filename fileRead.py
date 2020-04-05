@@ -1,57 +1,80 @@
 from numpy import random
 from time import sleep
 import synonyms as sy
+import postagging as pos
 
 
 def check(question):
+    try:
+        tagged=pos.tokeizeQuestion(question)
+        # print(tagged)
+    except:
+        tagged=""
+        print("POS tagging is not working, please use nltk.download() to get essential packets")
     arr = question.split(" ")
     maxNum = 0
     num = 0
     f = open("response.txt", "r")
-    finalResponse = "Sorry I don't understand."
-    optionalResponse = []
+    finalResponse = ""
+    # default response
+    optionalResponse = ["Sorry I don't understand.", "The question is out of my range.", "It is far beyond the topic.",
+                        "I am not sure about the answer.", "Make you ask me another question?"]
     for line in f:
         # Coordinate the question word array
         if line.__contains__("Question"):
             questionArray = f.readline().split(" ")
             for word in arr:
+                result = sy.findSynonyms(word)
                 for questionWord in questionArray:
                     # this .__contain__ will change to "==" when the response.txt is done
                     # weight system: each word has a weight(0-9) to calculate the similarity of the input sentence\
-                    keyword = questionWord[:(len(questionWord) - 1)].lower()
-                    if keyword == word.lower():
-                        # handle the last word for each questionArray, which is "something/n"
-                        try:
-                            if questionWord[len(questionWord) - 1] == "\n":
-                                num += int(questionWord[len(questionWord) - 2])
+                    # handle the last word for each questionArray, which is "something/n"
+                    if questionWord == "" or questionWord == "\n":
+                        continue
+                    try:
+                        if questionWord[len(questionWord) - 1] == "\n":
+                            keyword = questionWord[:(len(questionWord) - 2)].lower()
+                            keywordValue = int(questionWord[len(questionWord) - 2])
+                        else:
+                            keyword = questionWord[:(len(questionWord) - 1)].lower()
+                            keywordValue = int(questionWord[len(questionWord) - 1])
+                    except:
+                        print("The word \"" + questionWord + "\" cannot read the value")
+                    # make the noun has more weight and the common words has less weight give a little more weight for
+                    # IN and JJ
+                    if not tagged=="":
+                        for tagges in tagged:
+                            if keyword==tagges[0]:
+                                if tagges[1]=="NN" or tagges=="NNS":
+                                    keywordValue=keywordValue*2
+                                elif tagges[1]=="IN" or tagges[1]=="JJ":
+                                    keywordValue = keywordValue * 1.2
                             else:
-                                num += int(questionWord[len(questionWord) - 1])
-                        # to handle if a word do not have a number in the end of the word
-                        except:
-                            num += 1
+                                keywordValue = keywordValue * 0.5
+                    if keyword == word.lower():
+                        num += keywordValue
                     else:
-                        result = sy.findSynonyms(keyword)
                         synonyms = result[0]
                         antonyms = result[1]
                         for synonymsWord in synonyms:
-                            if synonymsWord == word.lower():
+                            if synonymsWord == keyword.lower():
                                 # handle the last word for each questionArray, which is "something/n"
                                 try:
                                     if questionWord[len(questionWord) - 1] == "\n":
-                                        num += int(questionWord[len(questionWord) - 2])
+                                        num += keywordValue
                                     else:
-                                        num += int(questionWord[len(questionWord) - 1])
+                                        num += keywordValue
                                 # to handle if a word do not have a number in the end of the word
                                 except:
                                     num += 1
                         for antonymsWord in antonyms:
-                            if antonymsWord == word.lower():
+                            if antonymsWord == keyword.lower():
                                 # handle the last word for each questionArray, which is "something/n"
                                 try:
                                     if questionWord[len(questionWord) - 1] == "\n":
-                                        num -= int(questionWord[len(questionWord) - 2])
+                                        num -= keywordValue
                                     else:
-                                        num -= int(questionWord[len(questionWord) - 1])
+                                        num -= keywordValue
                                 # to handle if a word do not have a number in the end of the word
                                 except:
                                     num += 1
@@ -83,6 +106,7 @@ def check(question):
     for word in arr2:
         print(word)
     f.close()
+    optionalResponse = []
 
 
 def helpQuestions():
@@ -101,6 +125,3 @@ def helpQuestions():
     print("Try a swear word I fuckin dare you")
     print(":)")
     print("..........")
-
-
-

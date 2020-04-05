@@ -6,7 +6,7 @@ def findSynonyms(text):
     synonyms = []
     antonyms = []
 
-    for syn in wordnet.synsets("good"):
+    for syn in wordnet.synsets(text):
         for l in syn.lemmas():
             synonyms.append(l.name())
             if l.antonyms():
