@@ -1,4 +1,10 @@
-# Doctor Dr. Seuss COSC310_A2
+# Doctor Dr. Seuss COSC310_A3
+By: <br>
+Sherry Chen <br>
+Jing Guan<br>
+Rodrigo Lopez<br>
+Marcus Tam<br>
+Jiaan (John) Wu<br>
 
 ### Description
 
@@ -28,7 +34,7 @@ Using python and a simple txt file, the project is comprised of:
 * `chatbot.py`: This runs the chatbot, detecting the user's inputs and outputing the bot's response.
 * `fileread.py`: This recognizes the user's input and choosing the appropriate response from another text file.
 * `responses.txt`: This is where all possible inputs are stored (weighing each word accordingly) and housing all the different categories, which each conatains a possible responses.
-* `norm_punc.py`:
+* `norm_punc.py`: 
 * `phrasal.py`:
 * `postagging.py`:
 * `processSentence.py`: //TODO: John to make brief summary on each
@@ -52,6 +58,8 @@ Using python and a simple txt file, the project is comprised of:
 * Handles spelling mistakes
 * Communication with other chatbots via Sockets
 GUI:
+![gui image](images/gui)<br>
+
 The new GUI is built with Tkinter. 
 The GUI will looks like this in GUi.png, with a char screen and a input frame. You can click send or enter to chat with the chat bot via socket. 
 
