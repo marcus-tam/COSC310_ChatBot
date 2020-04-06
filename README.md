@@ -23,8 +23,71 @@ Once the main animation has loaded, the bot will ask you to input your name in o
 
 # About Our Code
 
-Using python and a simple txt file, the project is comprised of 4 files:
-* `animations.py`: Consist of a text animation showing The Cat in the Hat.
+Using python and a simple txt file, the project is comprised of:
+~~* `animations.py`: Consist of a text animation showing The Cat in the Hat.~~
 * `chatbot.py`: This runs the chatbot, detecting the user's inputs and outputing the bot's response.
 * `fileread.py`: This recognizes the user's input and choosing the appropriate response from another text file.
 * `responses.txt`: This is where all possible inputs are stored (weighing each word accordingly) and housing all the different categories, which each conatains a possible responses.
+* `norm_punc.py`:
+* `phrasal.py`:
+* `postagging.py`:
+* `processSentence.py`: //TODO: John to make brief summary on each
+* `responsehp.txt`: This is a new topic very similar to responses.txt, but the data stored in here is related to JK Rowling.
+* `sever.py`:
+* `spell.py`:
+* `synonym.py`:
+* `test.py`:
+
+---------
+
+# New Features added in A3
+
+* Add a new simple GUI
+* Add a new topic (JK Rowling)
+* When user input is out of scope, chatbot will respond appropriately with varying responses
+* Multiple ToolKits
+  * Synonym Recognition
+  * POS tagging
+  * Phrasal
+* Handles spelling mistakes
+* Communication with other chatbots via Sockets
+
+1. GUI
+
+The new GUI is built with Tkinter. 
+
+** INSERT IMAGE HERE
+
+2. New Topic
+
+The user can now have a conversation with JK Rowling about various things, like Harry Potter!
+
+** INSERT IMAGE HERE
+
+3. Various Responses to out of scope questions
+
+Now the chatbot will output various responses when no appropriate response is detected.
+
+** INSERT IMAGE HERE
+
+4. Multiple toolkits
+
+  * a) Synonym Recognition
+  
+  * b) POS tagging
+  
+  * c) Phrasal
+  
+5. Handling Spelling Mistakes
+
+//For john to briefly explain -- similar to about our code section
+
+** INSERT IMAGE HERE
+
+6. Sockets
+
+  * a) Client
+  
+  * b) Server
+  
+  
