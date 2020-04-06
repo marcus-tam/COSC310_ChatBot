@@ -76,3 +76,43 @@ def introAnimation():
     print(      "       ;=\"=   `\_)  ==\"\'")
     sleep(0.1)
     print(      "    ")
+
+def getPicture():
+    respond = ""
+    respond += "\n" + "        "
+    respond += "\n" + "                 _.---,_"
+    respond += "\n" + ("               .'       `'.")
+    respond += ("\n") + ("                \    __..-'\'")
+    respond += ("\n") + "                 }-\"`       \'"
+    respond += ("\n") + ("                /__,,..---.._|")
+    respond += ("\n") + ("                \            |")
+    respond += ("\n") + ("                |---..__     |")
+    respond += ("\n") + ("               /        ``\"-./")
+    respond += ("\n") + ("             .'---...__      |")
+    respond += ("\n") + ("           .'          ``\"-./")
+    respond += ("\n") + ("      ,--./...,,,__        /")
+    respond += ("\n") + ("      '--.'__    __```.-. /._")
+    respond += ("\n") + ("        / `  `  '  `=/.-.|-._)")
+    respond += ("\n") + ("        | .-.  .-.  \"\'\'  /")
+    respond += ("\n") + ("        || O| | O|  \"\"=='_\'")
+    respond += ("\n") + ("      .-' '-'o '-'    \"\"=\`")
+    respond += ("\n") + ("`''--/-              \"\"=-,\--._")
+    respond += ("\n") + (".---|-            ( \"\"=-. \`")
+    respond += ("\n") + ("    \             /`)\"=.\"=|'-.")
+    respond += ("\n") + ("     '.       _.-' '  \"=|\|")
+    respond += ("\n") + ("       (`----`    '=\"=|/")
+    respond += ("\n") + ("        `-.       \"=/`")
+    respond += ("\n") + ("           '.     =/")
+    respond += ("\n") + ("             \   =|")
+    respond += ("\n") + ("  .-.        |` \"=|")
+    respond += ("\n") + (" (   ~._     | \"==|        _.-~`\'")
+    respond += ("\n") + ("  \     ~.   |'\"=\"|    _.-~      )")
+    respond += ("\n") + ("   ;      ~-.|.-._|_.-~         /")
+    respond += ("\n") + ("  /        _-(  /-.__          (")
+    respond += ("\n") + (" '._..--~~`/`/-'\-._ `~~-       ;")
+    respond += ("\n") + ("          /\"=|  |\" =\~-...___.-~")
+    respond += ("\n") + ("         /=\" /  | \"==\'")
+    respond += ("\n") + ("        / = (_  \  \"==\'")
+    respond += ("\n") + ("       ;=\"=   `\_)  ==\"\'")
+    respond += ("\n") + ("Oh hi, I was just sleeping. Welcome to Talk With Seuss! Please enter the name you would like to be called by. ")
+    return respond

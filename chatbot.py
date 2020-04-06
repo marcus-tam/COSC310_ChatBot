@@ -24,7 +24,7 @@ def startchatbot():
         if correctedQuestion.lower().__eq__("help"):
             fr.helpQuestions()
         else:
-            fr.check(correctedQuestion)
+            print(fr.check(correctedQuestion))
 
 
 while __name__ == '__main__':

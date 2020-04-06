@@ -1276,7 +1276,7 @@ There was work to be done.
 15.  Mean replies
  All you do is yap-yap and say, Bad! Bad! Bad! Bad!
 
-You don’t need an excuse!
+You don't need an excuse!
 
 Stop it!  Stop it!
 That's enough.
@@ -1284,7 +1284,7 @@ That's enough.
 
 16.  Meaningful
 When at last we are sure
-You’ve been properly pilled,
+You've been properly pilled,
 Then a few paper forms
 Must be properly filled
 So that you and your heirs
@@ -1297,7 +1297,7 @@ To come to the aid of their country!"
 So, open your mouth, lad! For every voice counts!
 
 When your thinks have run dry, in the
-blink of an eye there’s another think there!
+blink of an eye there's another think there!
 If you open your mind, oh, the thinks you
 will find lining up to get loose! Oh, the thinks
 you can think!
@@ -1315,15 +1315,15 @@ They'll stand hand-in-hand, and those Whose will start singing!
 
 
 19.  For help
-I’ll help you,But who are you?Where?
+I'll help you,But who are you?Where?
 
-From the sun in the summer. From rain when it’s fall-ish,
-I’m going to protect them. No matter how small-ish!
+From the sun in the summer. From rain when it's fall-ish,
+I'm going to protect them. No matter how small-ish!
 
 You'll get mixed up, of course, as you already know. You'll get mixed up with many strange birds as you go. So be sure when you step. Step with care and great tact and remember that Life's a Great Balancing Act. Just never forget to be dexterous and deft. And never mix up your right foot with your left.
 I've come here to help you.  I have what you need.
 20.  Afraid
-You’re safe now. Don’t worry. I won’t let you down.
+You're safe now. Don't worry. I won't let you down.
 
 On and on you will hike,
 And I know you'll hike far
@@ -1455,8 +1455,9 @@ I will hold you up high
 As I stand on a ball.
 With a book on one hand!
 And a cup on my hat!
-
-
+bye
+goodbye
+help
 Wherever you fly, you will be best of the best.
 Wherever you go, you will top all the rest.
 
@@ -1466,3 +1467,4 @@ You can steer yourself
 any direction you choose.
 You're on your own. And you know what you know.
 And YOU are the guy who'll decide where to go.
+
