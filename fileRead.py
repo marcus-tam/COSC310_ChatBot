@@ -5,11 +5,13 @@ import postagging as pos
 
 
 def check(question):
+    count=0
+    finalcount=0
     try:
-        tagged=pos.tokeizeQuestion(question)
+        tagged = pos.tokeizeQuestion(question)
         # print(tagged)
     except:
-        tagged=""
+        tagged = ""
         print("POS tagging is not working, please use nltk.download() to get essential packets")
     arr = question.split(" ")
     maxNum = 0
@@ -20,9 +22,11 @@ def check(question):
     optionalResponse = ["Sorry I don't understand.", "The question is out of my range.", "It is far beyond the topic.",
                         "I am not sure about the answer.", "Make you ask me another question?"]
     for line in f:
+        count+=1
         # Coordinate the question word array
         if line.__contains__("Question"):
             questionArray = f.readline().split(" ")
+            count+=1
             for word in arr:
                 result = sy.findSynonyms(word)
                 for questionWord in questionArray:
@@ -42,12 +46,12 @@ def check(question):
                         print("The word \"" + questionWord + "\" cannot read the value")
                     # make the noun has more weight and the common words has less weight give a little more weight for
                     # IN and JJ
-                    if not tagged=="":
+                    if not tagged == "":
                         for tagges in tagged:
-                            if keyword==tagges[0]:
-                                if tagges[1]=="NN" or tagges=="NNS":
-                                    keywordValue=keywordValue*2
-                                elif tagges[1]=="IN" or tagges[1]=="JJ":
+                            if keyword == tagges[0]:
+                                if tagges[1] == "NN" or tagges == "NNS":
+                                    keywordValue = keywordValue * 1.5
+                                elif tagges[1] == "IN" or tagges[1] == "JJ":
                                     keywordValue = keywordValue * 1.2
                             else:
                                 keywordValue = keywordValue * 0.5
@@ -81,12 +85,15 @@ def check(question):
 
             # obtain the category with the highest weight or also can be called similarity
             if num > maxNum:
+                finalcount=count
                 optionalResponse = []
                 maxNum = num
                 print(f.readline())
+                count+=1
                 # get all possible response
                 while True:
                     temp = f.readline()
+                    count+=1
                     if not temp.__contains__("---------"):
                         optionalResponse.append(temp)
                     else:
@@ -103,10 +110,13 @@ def check(question):
             # print("finalResponse:" + finalResponse)
             finalResponse = optionalResponse[index]
     arr2 = finalResponse.split("\\n")
+    finalRes=""
     for word in arr2:
-        print(word)
+        finalRes+=word
     f.close()
-    optionalResponse = []
+    if finalcount>=227:
+        finalRes ="I do not know this but I am sure JK rowling know it\n JK rowling: "+finalRes
+    return finalRes
 
 
 def helpQuestions():
@@ -125,3 +135,13 @@ def helpQuestions():
     print("Try a swear word I fuckin dare you")
     print(":)")
     print("..........")
+
+
+def getHelp():
+    respond = "So you want to know what you don't know? Here's a few things I can chat about!\n" \
+              "Want to know about a few of my books? Ask me about the Cat in the Hat!\n" \
+              "Tell me about how you're feeling! I hope I'll respond appropriately\n" \
+              "Want to know about a beloved character? Ask me about the Lorax\n" \
+              "Try a swear word I fuckin dare you\n" \
+              ":)"
+    return respond

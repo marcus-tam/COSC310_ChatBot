@@ -63,16 +63,30 @@ def checkCorrection(question):
         if not correctWord == questionWord:
             userResponse = input("Does \"" + questionWord + "\" means \"" + correctWord + "\' ?")
             if userResponse.lower().__contains__("yes" or "yea" or "yep"):
-                temp += correctWord+" "
+                temp += correctWord + " "
             elif userResponse.lower().__contains__("no" or "nope" or "nah"):
-                temp += questionWord+" "
+                temp += questionWord + " "
             else:
                 return userResponse
         else:
-            temp+=questionWord+" "
+            temp += questionWord + " "
     return temp
+
+
+def checkCorrectionViaSocket(question):
+    arr = question.split(" ")
+    correctedResponse=""
+    for questionWord in arr:
+        correctWord = correction(questionWord)
+        correctedResponse += correctWord+" "
+    return [question+" ",correctedResponse]
 
 
 while __name__ == '__main__':
     word = input("input:")
-    print(correction(word))
+    res=checkCorrectionViaSocket(word)
+    print(len(res))
+    print(res[0])
+    if len(res)==2:
+        print(res[1])
+        print(res[0]==res[1])
